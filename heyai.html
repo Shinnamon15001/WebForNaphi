@@ -24,8 +24,7 @@
                             <p>
                             สุขสันต์วันวาเลนไทน์
                             ขอให้มีความสุขมากๆเลย 
-                            อยากเจอนพิมากๆ 
-                            อยากกอดมากกกกก
+                            อยากเจอนพิมากๆ
                             </p>
                             <center><p>Love you</p></center>
                         </div>
@@ -48,14 +47,12 @@
         let floor = document.getElementById('floor');
         let left_door = document.getElementById('left_door');
         let right_door = document.getElementById('right_door')
-        let text = document.getElementById('text');
 
         window.addEventListener('scroll', function() {
             let value = window.scrollY;
             floor.style.top = value * 0.65 + 'px';
             left_door.style.left = value * -0.55 + 'px';
             right_door.style.left = value * 0.55 + 'px';
-            text.style.top = value * 0.60 + 'px';
         })
     </script>
 </body>
