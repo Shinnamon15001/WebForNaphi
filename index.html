@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/css.css" type="text/css">
+    <title>ForNaphi</title>
+</head>
+<body>
+    <div class="main-page">
+        <div class="top-page">
+
+        </div>
+        
+        <div class="container">
+            <div class="envelope-wrapper">
+                <div class="envelope">
+                    <div class="letter">
+                        <div class="text">
+                            <strong>Dear Naphi</strong>
+                            <p>
+                            สุขสันต์วันวาเลนไทน์
+                            ขอให้มีความสุขมากๆเลย 
+                            อยากเจอนพิมากๆ 
+                            อยากกอดมากกกกก
+                            </p>
+                            <center><p>Love you</p></center>
+                        </div>
+                    </div>
+                </div>
+                <div class="heart"></div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <script>
+        const envelope = document.querySelector('.envelope-wrapper');
+        envelope.addEventListener('click', () => {
+            envelope.classList.toggle('flap');
+        })
+    </script>
+</body>
+</html>

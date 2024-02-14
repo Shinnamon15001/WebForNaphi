@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 656.15 276.22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_139-4);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-9 {
+        opacity: .5;
+      }
+
+      .cls-1, .cls-2, .cls-4, .cls-9 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-2 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_139-3);
+      }
+
+      .cls-11 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_552);
+        mix-blend-mode: screen;
+      }
+
+      .cls-4 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_139-2);
+      }
+
+      .cls-5 {
+        fill: #b2e0fd;
+      }
+
+      .cls-6 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_386-2);
+      }
+
+      .cls-7 {
+        fill: #541440;
+      }
+
+      .cls-8 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_386);
+      }
+
+      .cls-9 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_139);
+      }
+
+      .cls-10 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_140);
+      }
+    </style>
+    <radialGradient id="_Áåçûìÿííûé_ãðàäèåíò_386" data-name="Áåçûìÿííûé ãðàäèåíò 386" cx="128.09" cy="274.14" fx="128.09" fy="274.14" r="61.09" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b93721"/>
+      <stop offset="1" stop-color="#7d2552"/>
+    </radialGradient>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_552" data-name="Áåçûìÿííûé ãðàäèåíò 552" x1="110.15" y1="296.6" x2="108.7" y2="186.67" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7731a9"/>
+      <stop offset="1" stop-color="#49519f"/>
+    </linearGradient>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_140" data-name="Áåçûìÿííûé ãðàäèåíò 140" x1="165.05" y1="164.81" x2="165.53" y2="164.81" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7d2552"/>
+      <stop offset="1" stop-color="#b93721"/>
+    </linearGradient>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_139" data-name="Áåçûìÿííûé ãðàäèåíò 139" x1="95" y1="-6.9" x2="139.05" y2="114.83" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#490058"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_139-2" data-name="Áåçûìÿííûé ãðàäèåíò 139" x1="277.05" y1="212.32" x2="78.45" y2="234.61" xlink:href="#_Áåçûìÿííûé_ãðàäèåíò_139"/>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_139-3" data-name="Áåçûìÿííûé ãðàäèåíò 139" x1="289.99" y1="179.79" x2="87.46" y2="125" xlink:href="#_Áåçûìÿííûé_ãðàäèåíò_139"/>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_139-4" data-name="Áåçûìÿííûé ãðàäèåíò 139" x1="305.06" y1="139.74" x2="94.63" y2="82.81" xlink:href="#_Áåçûìÿííûé_ãðàäèåíò_139"/>
+    <radialGradient id="_Áåçûìÿííûé_ãðàäèåíò_386-2" data-name="Áåçûìÿííûé ãðàäèåíò 386" cx="181.57" cy="163.57" fx="181.57" fy="163.57" r="93.73" xlink:href="#_Áåçûìÿííûé_ãðàäèåíò_386"/>
+  </defs>
+  <g class="cls-11">
+    <g id="layer1">
+      <g>
+        <polygon class="cls-5" points="170.33 31.08 170.33 35.72 170.33 86.48 170.33 123.51 170.33 147.5 170.33 149.28 170.33 152.06 170.33 292.12 170.33 292.54 171.38 292.54 180.49 292.54 180.49 292.54 182.95 289.3 184.59 32.87 180.8 31.04 170.33 31.08"/>
+        <g>
+          <path class="cls-7" d="m37.85,31.64l2.94,263.87,48.76.22h2.19s2.46.02,2.46.02l85.3.36.29-143.92v-2.18s.01-2.94.01-2.94l.04-20.93.08-40.82-.11-54.27-141.97.6Zm127.19,257.67l-113.76-.56-2.35-247.88,116.58-.56-.47,249Z"/>
+          <polygon class="cls-8" points="165.52 40.31 48.94 40.87 51.29 288.75 165.05 289.31 165.05 290.46 47.83 289.89 45.18 38.08 165.3 37.51 165.52 40.31"/>
+          <polygon class="cls-3" points="165.52 40.31 165.05 289.31 51.29 288.75 48.94 40.87 165.52 40.31"/>
+          <polygon class="cls-10" points="165.53 40.31 165.06 289.31 165.05 289.31 165.52 40.31 165.53 40.31"/>
+          <polygon class="cls-9" points="179.82 31.04 165.3 37.51 165.52 40.31 48.94 40.87 45.18 38.08 37.85 31.64 179.82 31.04"/>
+          <polygon class="cls-4" points="165.39 152.02 179.8 152.19 179.51 296.11 165.05 290.46 165.05 289.31 165.39 152.02"/>
+          <polygon class="cls-2" points="165.53 147.66 179.81 147.06 179.81 150 165.39 149.01 165.53 147.66"/>
+          <polygon class="cls-1" points="179.94 85.31 179.85 126.13 165.39 122.54 165.53 86.89 179.94 85.31"/>
+          <polygon class="cls-6" points="182.94 292.8 179.51 296.11 179.82 31.04 183.64 32.87 182.94 292.8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
