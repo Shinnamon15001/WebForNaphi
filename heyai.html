@@ -7,14 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <header>
-        <a href="" class="logo">Logo</a>
-        <ul>
-            <li><a href="#" class="nav_text">fda</a></li>
-            <li><a href="#" class="nav_text">dfa</a></li>
-            <li><a href="#" class="nav_text">fahb</a></li>
-        </ul>
-    </header>
     <section>
         <h2 id="text">I love naphi</h2>
         <img src="Paralax/Floor.svg" id="floor" alt="wait">
@@ -23,17 +15,34 @@
     </section>
 
     <div class="sec">
-        <h2>Parallax Scrolling Effects</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, 
-            nobis impedit laborum laboriosam illum ad doloremque illo sequi 
-            excepturi fugiat perferendis ratione nesciunt voluptas nostrum
-            dignissimos! Perferendis laudantium libero nisi.
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum
-            aliquid aperiam rerum laboriosam, veniam aliquam repellendus 
-            quam obcaecati vitae assumenda mollitia excepturi delectus, 
-            officia accusantium rem porro. Iusto, laboriosam soluta?
+        <div class="container">
+            <div class="envelope-wrapper">
+                <div class="envelope">
+                    <div class="letter">
+                        <div class="text">
+                            <strong>Dear Naphi</strong>
+                            <p>
+                            สุขสันต์วันวาเลนไทน์
+                            ขอให้มีความสุขมากๆเลย 
+                            อยากเจอนพิมากๆ 
+                            อยากกอดมากกกกก
+                            </p>
+                            <center><p>Love you</p></center>
+                        </div>
+                    </div>
+                </div>
+                <div class="heart"></div>
+            </div>
+        </div>
         </p>
     </div>
+
+    <script>
+        const envelope = document.querySelector('.envelope-wrapper');
+        envelope.addEventListener('click', () => {
+            envelope.classList.toggle('flap');
+        })
+    </script>
 
     <script>
         let floor = document.getElementById('floor');
